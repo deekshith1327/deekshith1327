@@ -1,10 +1,21 @@
-<div align="center">
+# Deekshith P.
 
-![Deekshith P. | Electronics, embedded systems and software](https://capsule-render.vercel.app/api?type=waving&color=0:102A43,50:0E7490,100:22D3EE&height=210&section=header&text=Deekshith%20P.&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=ELECTRONICS%20%20%7C%20%20EMBEDDED%20SYSTEMS%20%20%7C%20%20SOFTWARE&descAlignY=61&descSize=15)
+**Embedded systems and software developer** working across electronics, ESP32 firmware, and web applications. I build practical projects that connect sensing, real-time systems, and clear data visualization.
 
-[![Animated tagline](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=800&color=0E7490&center=true&vCenter=true&width=700&lines=Learning+by+building;Exploring+sensors+and+microcontrollers;Turning+ideas+into+working+prototypes)](https://github.com/deekshith1327)
+## Selected work
 
-[![Projects](https://img.shields.io/badge/PROJECTS-Explore%20my%20work-0E7490?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deekshith1327?tab=repositories)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Engineering%20journey-102A43?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/deekshith1327/deekshith-portfolio)
+- [**Adaptive Sonar Transmitter**](https://github.com/deekshith1327/sonar-dds-esp32) — ESP32 firmware for an AD9850-based sonar transmitter, with sensor-driven parameters, timer-based chirp generation, and telemetry.
+- [**Earthscope**](https://github.com/deekshith1327/earthscope) — An Earth monitoring dashboard combining public earthquake, aircraft, and satellite data with an interactive globe.
+- [**PDF Summary Generator**](https://github.com/deekshith1327/pdf-summary-generator) — A web app for generating summaries from text, documents, or URLs.
+- [**Portfolio**](https://github.com/deekshith1327/deekshith-portfolio) — My editable React and TypeScript engineering portfolio.
 
-</div>
+## Technologies
+
+**Embedded:** ESP32, Arduino, C++  
+**Web:** React, TypeScript, Vite  
+**Visualization:** CesiumJS, satellite.js
+
+## Find me
+
+- [GitHub repositories](https://github.com/deekshith1327?tab=repositories)
+- [Portfolio source](https://github.com/deekshith1327/deekshith-portfolio)
